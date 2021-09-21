@@ -1,4 +1,6 @@
 //Create name value pairing
+//This was updated by Isaac Morallo
+
 const reasonInput = document.querySelector('#input-reason');
 const amountInput = document.querySelector('#input-amount');
 const cancelButton = document.querySelector('#btn-clear');
